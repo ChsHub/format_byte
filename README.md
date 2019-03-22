@@ -10,6 +10,6 @@ Convert interget to string and format byte unit string.
 from format_byte import format_byte
 
 format_byte(1024000)
->>> 1000\.0kiB
+>>> 1000.0kiB
 
 ```
