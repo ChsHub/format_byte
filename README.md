@@ -1,5 +1,5 @@
 # format_byte
-Convert interget to string and format byte unit string.
+Make a number of bytes readable for humans.
 
 ## Installation
 `python3 -m pip install format_byte`
