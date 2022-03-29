@@ -1,5 +1,5 @@
 # format_byte
-Make a number of bytes readable for humans.
+Make a number of bytes readable for people.
 
 ## Installation
 `python3 -m pip install format_byte`
